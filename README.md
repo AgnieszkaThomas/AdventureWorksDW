@@ -14,7 +14,6 @@ This project demonstrates an end-to-end analytics solution using AdventureWorksD
 ## Tech stack
 
 - SQL Server
-- T-SQL
 - Power BI
 - DAX
 - GitHub
